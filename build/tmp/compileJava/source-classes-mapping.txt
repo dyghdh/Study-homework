@@ -4,3 +4,5 @@ b_BasicAlgorism.java
  b_BasicAlgorism
 c_BasicStar.java
  c_BasicStar
+j_BasicAlgorism.java
+ j_BasicAlgorism
