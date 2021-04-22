@@ -1,2 +1,6 @@
-Main.java
- Main
+a_BasicAlgorism.java
+ a_BasicAlgorism
+b_BasicAlgorism.java
+ b_BasicAlgorism
+c_BasicStar.java
+ c_BasicStar
