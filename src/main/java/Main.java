@@ -8,5 +8,13 @@ public class Main {
 
         System.out.println("마린체력 : "+m.hp);
 
+        Mixer x = new Mixer();
+
+        x.setPower(true);
+
+        x.power();
+
+        x.blade();
+
     }
 }
